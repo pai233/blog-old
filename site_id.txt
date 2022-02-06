@@ -1,0 +1,19 @@
+{
+    "blog_pai233_top": "cf-mainserver",
+    "pai233_blog_pages_dev": "cf-backupserver",
+    "github_cdn_blog_pai233_top": "github-mainserver",
+    "pai233_github_io_Blog": "github-backupserver",
+    "localhost": "TEST",
+    "pai233": "TEST",
+    "vercel_cdn_blog_pai233_top": "vercel-mainserver",
+    "blog_pai233_vercel_app": "vercel-backupserver1",
+    "blog_one_ecru_vercel_app": "vercel-backupserver2",
+    "blog_git_gh_pages_pai233_vercel_app": "vercel-backupserver3",
+    "netlify_cdn_blog_pai233_top": "netlify-mainserver",
+    "pai233_blog_netlify_app": "netlify-backupserver",
+    "pai233_blog_us_herokuapp_com": "heroku-us",
+    "pai233_blog_eu_herokuapp_com": "heroku-eu",
+    "_everland_cdn_blog_pai233_top": "4everland-mainserver",
+    "pai233_blog__everland_app": "4everland-backupserver",
+    "pai233_bitbucket_io": "bitbucket"
+}
